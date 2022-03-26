@@ -3,6 +3,7 @@ RENCANA BELAJAR HAIKAL
 -Belajar Frameworks Javascript
 ^Node JS
 ^React
-^Angular
+^Vue
+-Belajar Competitive Programming
 -Belajar FrameWorks CSS
 -Belajar PHP
