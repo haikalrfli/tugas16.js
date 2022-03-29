@@ -7,3 +7,4 @@ RENCANA BELAJAR HAIKAL
 -Belajar Competitive Programming
 -Belajar FrameWorks CSS
 -Belajar PHP
+-Belajar OOP pada Javascript
