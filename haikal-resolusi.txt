@@ -1,0 +1,5 @@
+Halo ini adalah file belajar github mengenai FORK
+
+Resolusi saya : 
+-Belajar NODE JS dan membuat e-voting website
+-bisa menghasilkan dari programming di tahun ini
